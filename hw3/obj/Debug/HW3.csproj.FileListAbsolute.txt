@@ -1,0 +1,53 @@
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\MainWindow.g.cs
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\App.g.cs
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3_MarkupCompile.cache
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3_MarkupCompile.lref
+D:\四下\近景攝影測量\HW3\HW3\HW3\bin\Debug\HW3.exe.config
+D:\四下\近景攝影測量\HW3\HW3\HW3\bin\Debug\HW3.exe
+D:\四下\近景攝影測量\HW3\HW3\HW3\bin\Debug\HW3.pdb
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\MainWindow.baml
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.g.resources
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.Properties.Resources.resources
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.csproj.GenerateResource.cache
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.exe
+D:\四下\近景攝影測量\HW3\HW3\HW3\obj\Debug\HW3.pdb
+C:\hw3\HW3\bin\Debug\HW3.exe.config
+C:\hw3\HW3\bin\Debug\HW3.exe
+C:\hw3\HW3\bin\Debug\HW3.pdb
+C:\hw3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+C:\hw3\HW3\obj\Debug\MainWindow.g.cs
+C:\hw3\HW3\obj\Debug\App.g.cs
+C:\hw3\HW3\obj\Debug\HW3_MarkupCompile.cache
+C:\hw3\HW3\obj\Debug\HW3_MarkupCompile.lref
+C:\hw3\HW3\obj\Debug\MainWindow.baml
+C:\hw3\HW3\obj\Debug\HW3.g.resources
+C:\hw3\HW3\obj\Debug\HW3.Properties.Resources.resources
+C:\hw3\HW3\obj\Debug\HW3.csproj.GenerateResource.cache
+C:\hw3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\hw3\HW3\obj\Debug\HW3.exe
+C:\hw3\HW3\obj\Debug\HW3.pdb
+C:\hw3\HW3\bin\Debug\MathNet.Numerics.dll
+C:\hw3\HW3\bin\Debug\MathNet.Numerics.xml
+C:\hw3\HW3\obj\Debug\HW3_Content.g.cs
+C:\hw3\HW3\obj\Debug\HW3.csproj.CopyComplete
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\bin\Debug\HW3.exe.config
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\bin\Debug\HW3.exe
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\bin\Debug\HW3.pdb
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\bin\Debug\MathNet.Numerics.dll
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\bin\Debug\MathNet.Numerics.xml
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\MainWindow.g.cs
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\App.g.cs
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3_Content.g.cs
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3_MarkupCompile.cache
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3_MarkupCompile.lref
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\MainWindow.baml
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.g.resources
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.Properties.Resources.resources
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.csproj.GenerateResource.cache
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.csproj.CopyComplete
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.exe
+D:\四下\近景攝影測量\HW3_code and calibrated process\hw3\HW3\obj\Debug\HW3.pdb

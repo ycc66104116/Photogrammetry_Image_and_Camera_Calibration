@@ -1,0 +1,18 @@
+﻿<Window x:Class="HW3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="713.105" Width="1112.097">
+    <Grid Margin="0,0,3.6,3.2">
+        <Image x:Name="original" HorizontalAlignment="Left" Height="347" Margin="10,83,0,0" VerticalAlignment="Top" Width="380"/>
+        <Image x:Name="processed" HorizontalAlignment="Left" Height="347" Margin="712,83,0,0" VerticalAlignment="Top" Width="380"/>
+        <Button x:Name="Load_and_Calibrate" Content="Load and Calibrate" HorizontalAlignment="Left" Margin="155,537,0,0" VerticalAlignment="Top" Width="323" Height="84" Click="Load_and_Calibrate_Click"/>
+        <ProgressBar x:Name="pb" HorizontalAlignment="Left" Height="84" Margin="606,537,0,0" VerticalAlignment="Top" Width="307"/>
+        <TextBox x:Name="tb" HorizontalAlignment="Left" Height="44" Margin="443,473,0,0" TextWrapping="Wrap" Text="Selected" VerticalAlignment="Top" Width="188"/>
+        <ListBox x:Name="lb" HorizontalAlignment="Left" Height="441" Margin="443,10,0,0" VerticalAlignment="Top" Width="188" SelectionChanged="Lb_SelectionChanged"/>
+
+    </Grid>
+</Window>
